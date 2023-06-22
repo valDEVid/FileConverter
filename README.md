@@ -11,6 +11,7 @@ Select `Browse` button in `Select the file` to convert only one element and `Bro
 
 ### Select a format
 Select a format in the format list clicking on it
+
 ![Format List](/src/FormatsList.png)
 
 <br></br>
